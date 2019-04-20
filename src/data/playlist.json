@@ -1,0 +1,110 @@
+[
+    {
+        "mixDj": "Jason Cortez",
+        "mixTitle" : "The Original Mix",
+        "mixThumbSource": "cortez-glamslam.jpg",
+        "mixThumbDesc" : "Jason Cortez at Glam Slam",
+        "source": "https://s3-eu-west-1.amazonaws.com/diskokitten/jason_diskokitten_concept.mp3",
+        "mixDescription": "The Original Diskokitten Concept Mix",
+        "mixDate": "unknown"
+    },
+    {
+        "mixDj": "John Marr",
+        "mixTitle" : "DK Promo Jan 2009",
+        "mixThumbSource": "decks.jpg",
+        "mixThumbDesc" : "Andy Opel and Pam",
+        "source": "https://s3-eu-west-1.amazonaws.com/diskokitten/John-Marr-DK-Mini-Mashup-Mix-January-2009.mp3",
+        "mixDescription": "A unique mashup mix from John Mar",
+        "mixDate": "January 2009"
+    },
+    {
+        "mixDj": "Jason Cortez",
+        "mixTitle" : "DK June 2007",
+        "mixThumbSource": "cortez-jesus.jpg",
+        "mixThumbDesc" : "Jason Cortez in the mix",
+        "source": "https://s3-eu-west-1.amazonaws.com/diskokitten/jason_june07.mp3",
+        "mixDescription": "Jason Summer 2007 Mix",
+        "mixDate": "June 2007"
+    },
+    {
+        "mixDj": "Jason Cortez",
+        "mixTitle" : "DK Electro Mix",
+        "mixThumbSource": "cortez-controller.jpg",
+        "mixThumbDesc" : "Jason eats controller",
+        "source": "https://s3-eu-west-1.amazonaws.com/diskokitten/jason_electroMay08.mp3",
+        "mixDescription": "Jason goes all things dirty electro",
+        "mixDate": "May 2008"
+    },
+    {
+        "mixDj": "Jason Cortez",
+        "mixTitle" : "DK May 2009",
+        "mixThumbSource": "cortez-opel.jpg",
+        "mixThumbDesc" : "Jason Cortez and Andy Opel",
+        "source": "https://s3-eu-west-1.amazonaws.com/diskokitten/jason_may09.mp3",
+        "mixDescription": "Jason Summer 2009 Mix",
+        "mixDate": "May 2009"
+    },
+    {
+        "mixDj": "Jason Cortez",
+        "mixTitle" : "DK September 2009",
+        "mixThumbSource": "jason-cortez-shoe.jpg",
+        "mixThumbDesc" : "Jason Cortez and Andy Opel",
+        "source": "https://s3-eu-west-1.amazonaws.com/diskokitten/jason_sep09.mp3",
+        "mixDescription": "Jason Autumn 2009 Mix",
+        "mixDate": "September 2009"
+    },
+    {
+        "mixDj": "Jason Cortez",
+        "mixTitle" : "DK November 2009",
+        "mixThumbSource": "jason-cortez.jpg",
+        "mixThumbDesc" : "Jason Cortez",
+        "source": "https://s3-eu-west-1.amazonaws.com/diskokitten/jason_nov09.mp3",
+        "mixDescription": "Jason Autumn 2009 Mix",
+        "mixDate": "November 2009"
+    },
+    {
+        "mixDj": "Andy Opel",
+        "mixTitle" : "Bootique April 2010",
+        "mixThumbSource": "dk-crowd.jpg",
+        "mixThumbDesc" : "Diskokitten Crowd",
+        "source": "https://s3-eu-west-1.amazonaws.com/diskokitten/April10_Bootique.mp3",
+        "mixDescription": "Bootique Promo Mix",
+        "mixDate": "April 2010"
+    },
+    {
+        "mixDj": "Andy Opel",
+        "mixTitle" : "May House 2010",
+        "mixThumbSource": "andy-opel.jpg",
+        "mixThumbDesc" : "Andy Opel DJing",
+        "source": "https://s3-eu-west-1.amazonaws.com/diskokitten/Andy_Opel_May2010_housemix.mp3",
+        "mixDescription": "House mix from Andy Opel",
+        "mixDate": "May 2010"
+    },
+    {
+        "mixDj": "Jason Cortez",
+        "mixTitle" : "Final DK Promo",
+        "mixThumbSource": "cortez-clapping.jpg",
+        "mixThumbDesc" : "Jason Cortez at final DK",
+        "source": "https://s3-eu-west-1.amazonaws.com/diskokitten/jason_FinalDKmix.mp3",
+        "mixDescription": "Final Diskokitten Promo Mix",
+        "mixDate": "June 2010"
+    },
+    {
+        "mixDj": "Jason Cortez",
+        "mixTitle" : "DK November 2010",
+        "mixThumbSource": "cortez-opel-zoom.jpg",
+        "mixThumbDesc" : "Jason Cortez and Andy Opel",
+        "source": "https://s3-eu-west-1.amazonaws.com/diskokitten/jason_november.mp3",
+        "mixDescription": "Jason Autumn 2010 Mix",
+        "mixDate": "November 2010"
+    },
+    {
+        "mixDj": "Andy Opel",
+        "mixTitle" : "Halloween Mix",
+        "mixThumbSource": "opel-cortez-glamslam1.jpg",
+        "mixThumbDesc" : "Cortez and Opel at Glam Slam",
+        "source": "https://s3-eu-west-1.amazonaws.com/diskokitten/Andy-Opel-Halloween-Mini-+Mix-10.mp3",
+        "mixDescription": "Halloween mini mix from Andy Opel",
+        "mixDate": "October 2010"
+    }
+]

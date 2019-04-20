@@ -1,0 +1,43 @@
+{{!-- This is the base layout for your project, and will be used on every page unless specified. --}}
+
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diskokitten - Dance and Sing like no one is looking</title>
+    <meta name="author" content="Andrew Cetnarskyj">
+    <meta name="description" content="Diskokitten was one of Edinburgh's most infamous club nights fronted by Jason Cortez and Andy Opel. This site contains a backlog of all the Diskokitten DJ Mixes">
+    <meta name="keywords" content="Diskokitten, Edinburgh, Jason Cortez, Andy Opel, Babes, Niall Angus, John Marr, Paul Finlayson, mixes, DJ, house music">
+    <link rel="shortcut icon" href="{{root}}assets/img/favicon.ico" type="image/x-icon">
+<link rel="icon" href="{{root}}assets/img/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="{{root}}assets/css/app.css">
+    <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet">
+    <link href="{{root}}assets/css/clean-html-player.css" rel="stylesheet">
+    <meta property="og:title" content="Diskokitten" />
+	<meta property="og:type" content="article" />
+	<meta property="og:image" content="Image URL" />
+	<meta property="og:url" content="http://www.diskokitten.co.uk" />
+	<meta property="og:description" content="Diskokitten was one of Edinburgh's most infamous club nights fronted by Jason Cortez and Andy Opel. This site contains a backlog of all the Diskokitten DJ Mixes" />
+	<meta property="og:site_name" content="Diskokitten" />
+  </head>
+  <body>
+	<header class="logo">
+		<img src="{{root}}assets/img/diskokittenLogo.png" alt="Diskokitten logo" width="280" >
+	</header>
+
+{{!-- Pages you create in the src/pages/ folder are inserted here when the flattened page is created. --}}
+{{> body}}
+
+<footer class="row">
+  <div class="footer">
+  &copy; Diskokitten &middot; <a href="https://www.facebook.com/diskokittendjs/" target="_blank" title="Diskokitten DJ's Facebook Page">Diskokitten DJ's Facebook</a>  &middot; <a href="https://www.facebook.com/groups/3145735523/" target="_blank" title="Diskokitten Regulars Facebook Group">Diskokitten Regulars Facebook Group</a> <br>
+  Photos courtesy of <a href="http://www.craigmuir.co.uk/" target="_blank" title="Craig Muir Photography Portfolio">Craig Muir Photography</a>
+  </div>
+</footer>
+
+<script src="{{root}}assets/js/app.js"></script>
+<script src="{{root}}assets/vendor/clean-html-player.js"></script>
+</body>
+</html>

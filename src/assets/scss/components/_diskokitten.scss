@@ -1,0 +1,61 @@
+body {
+	background-image: url("/assets/img/noisy.png");
+	background-position: top left;
+	background-repeat: repeat;
+
+}
+.logo {
+	margin: $global-margin * 2 auto;
+	text-align: center;
+}
+
+// grid
+.playlist {
+	@include xy-grid-container;
+	background-color: aqua;
+}
+
+.card-divider-title {
+	color: $white;
+}
+
+.mixes {
+	@include xy-grid;
+	@include xy-gutters($gutter-position: left right bottom);
+	
+	@include breakpoint(small) {
+		@include xy-cell;
+	}
+
+	@include breakpoint(medium) {
+		@include xy-cell(6);
+	}
+	
+	@include breakpoint(large) {
+		@include xy-cell(3);
+	}
+
+	h2 {
+		font-size: 20px;
+	}
+}
+
+.footer {
+	padding: $global-margin * 2 0;
+	text-align: center;
+	
+	@include breakpoint(large){
+		padding: $global-margin * 4 0;
+	}
+}
+
+.mix {
+	background-color: $dark-gray;
+		box-shadow: 0 0 12px 2px #000;
+
+	margin-bottom: $global-margin * 2;
+}
+
+.meta {
+	padding: $global-margin / 2;
+}

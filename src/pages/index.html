@@ -1,0 +1,39 @@
+<section class="grid-x grid-padding-x medium-up-2 large-up-3">
+
+		{{#each playlist}}
+	<article class="cell">
+		<div  class="card">
+			<div class="card-divider card-divider-title">{{mixTitle}}</div>
+			<img src="{{root}}assets/img/thumbs/{{mixThumbSource}}" alt="{{mixThumbDesc}}">
+			<!-- Player Start -->
+		
+			<div
+				class="cleanPlayer"
+				theme="light"
+				autoplay="false"
+				hidecontrols="true"
+				tooltips="true"
+				>
+				  <!-- AUDIO TRACK -->
+					<audio
+					title="{{mixTitle}} by {{mixDj}}"
+					descr="{{mixDescription}}"
+					download
+					>
+					<source
+						type="audio/mp3"
+						src="{{source}}"
+					></source>
+</audio>
+				</div>
+			<!-- Player End -->
+
+			<div class="meta card-section">
+				<h5>{{mixDj}} </h2>
+				<div class="subheader">{{mixDescription}}</div>
+				<h6 class="subheader">{{mixDate}}</h5>
+			</div>
+		</div>
+	</article>
+	{{/each}}
+	</section>
