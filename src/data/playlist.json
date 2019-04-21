@@ -10,6 +10,24 @@
     },
     {
         "mixDj": "Andy Opel",
+        "mixTitle" : "Christmas Mix",
+        "mixThumbSource": "opel-lashes-cortez.jpg",
+        "mixThumbDesc" : "Andy Opel, Lisa Lashes and Jason Cortez",
+        "source": "https://s3-eu-west-1.amazonaws.com/diskokitten/opel_xmas.mp3",
+        "mixDescription": "Andy Opel's  Christmas Mix",
+        "mixDate": "unknown"
+    },
+    {
+        "mixDj": "Andy Opel",
+        "mixTitle" : "Think Pink Mix",
+        "mixThumbSource": "opel-think-pink.jpg",
+        "mixThumbDesc" : "Andy Opel, Jason Cortez, Dean Newton and Paul Finlayson",
+        "source": "https://s3-eu-west-1.amazonaws.com/diskokitten/thinkpink.mp3",
+        "mixDescription": "Andy Opel's Infamous Think Pink Mix",
+        "mixDate": "unknown"
+    },
+    {
+        "mixDj": "Andy Opel",
         "mixTitle" : "DK January 2007",
         "mixThumbSource": "opel-gregsta.jpg",
         "mixThumbDesc" : "Opel & Gregsta at Outhouse BBQ",
@@ -28,9 +46,18 @@
     },
     {
         "mixDj": "Andy Opel",
+        "mixTitle" : "DK September 2007",
+        "mixThumbSource": "opel-kiss.jpg",
+        "mixThumbDesc" : "Opel gets a kiss",
+        "source": "https://s3-eu-west-1.amazonaws.com/diskokitten/jason_june07.mp3",
+        "mixDescription": "Jason Summer 2007 Mix",
+        "mixDate": "September 2007"
+    },
+    {
+        "mixDj": "Andy Opel",
         "mixTitle" : "Easter DK Mix",
-        "mixThumbSource": "cortez-controller.jpg",
-        "mixThumbDesc" : "Jason eats controller",
+        "mixThumbSource": "opel-easter.jpg",
+        "mixThumbDesc" : "Jason Cortez & Andy Opel",
         "source": "https://s3-eu-west-1.amazonaws.com/diskokitten/opel_april08.mp3",
         "mixDescription": "Andy's spring Diskokitten mix",
         "mixDate": "April 2008"
