@@ -9,6 +9,10 @@ body {
 	text-align: center;
 }
 
+.intro {
+	margin-bottom: $global-margin * 2;
+}
+
 // grid
 .playlist {
 	@include xy-grid-container;
