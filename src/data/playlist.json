@@ -19,6 +19,15 @@
     },
     {
         "mixDj": "Andy Opel",
+        "mixTitle" : "PAS Mix",
+        "mixThumbSource": "image-soon.jpg",
+        "mixThumbDesc" : "Image coming soon placeholder",
+        "source": "https://s3-eu-west-1.amazonaws.com/diskokitten/opel_pas1.mp3",
+        "mixDescription": "Andy Opel's Cheeky, Girly Mix",
+        "mixDate": "unknown"
+    },
+    {
+        "mixDj": "Andy Opel",
         "mixTitle" : "Think Pink Mix",
         "mixThumbSource": "opel-think-pink.jpg",
         "mixThumbDesc" : "Andy Opel, Jason Cortez, Dean Newton and Paul Finlayson",
@@ -28,12 +37,39 @@
     },
     {
         "mixDj": "Andy Opel",
+        "mixTitle" : "Best Rock Mix",
+        "mixThumbSource": "opel-cortez-ego.jpg",
+        "mixThumbDesc" : "Andy Opel and Jason Cortez",
+        "source": "https://s3-eu-west-1.amazonaws.com/diskokitten/opel_bestrock.mp3",
+        "mixDescription": "Andy Opel's Best Rock Bootlegs Mix",
+        "mixDate": "August 2006"
+    },
+    {
+        "mixDj": "Babes",
+        "mixTitle" : "80s Front Room Mix",
+        "mixThumbSource": "babes.jpg",
+        "mixThumbDesc" : "DJ Babes in the mix",
+        "source": "https://s3-eu-west-1.amazonaws.com/diskokitten/babes_80mix.mp3",
+        "mixDescription": "Babes 80s Front Room Mix",
+        "mixDate": "August 2006"
+    },
+    {
+        "mixDj": "Andy Opel",
         "mixTitle" : "DK January 2007",
         "mixThumbSource": "opel-gregsta.jpg",
         "mixThumbDesc" : "Opel & Gregsta at Outhouse BBQ",
         "source": "https://s3-eu-west-1.amazonaws.com/diskokitten/opel_january07.mp3",
         "mixDescription": "Andy Opel's New Year 2007 Mix",
         "mixDate": "January 2007"
+    },
+    {
+        "mixDj": "John Marr",
+        "mixTitle" : "Front Bar Mix",
+        "mixThumbSource": "image-soon.jpg",
+        "mixThumbDesc" : "Image coming soon placeholder",
+        "source": "https://s3-eu-west-1.amazonaws.com/diskokitten/Diskokitten++(John+Marr)+-+Front+Bar+Promo+(APRIL+2007).mp3",
+        "mixDescription": "John Marr's Front Bar 2007 Mix",
+        "mixDate": "April 2007"
     },
     {
         "mixDj": "Jason Cortez",
@@ -52,6 +88,15 @@
         "source": "https://s3-eu-west-1.amazonaws.com/diskokitten/jason_june07.mp3",
         "mixDescription": "Jason Summer 2007 Mix",
         "mixDate": "September 2007"
+    },
+    {
+        "mixDj": "Andy Opel & John Marr",
+        "mixTitle" : "Opel & Marr's Back to Back Set",
+        "mixThumbSource": "image-soon.jpg",
+        "mixThumbDesc" : "Image coming soon placeholder",
+        "source": "https://s3-eu-west-1.amazonaws.com/diskokitten/opel_mar08F.mp3",
+        "mixDescription": "Andy & Marr's Back to Back Diskkitten mix",
+        "mixDate": "March 2008"
     },
     {
         "mixDj": "Andy Opel",
